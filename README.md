@@ -1,5 +1,5 @@
 # movie_recommendation
-##Contributers
+## Contributers
 Pak Hei Lam
 Ethan Coulter
 Maxim Kasianiuk
