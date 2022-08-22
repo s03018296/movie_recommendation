@@ -1,10 +1,10 @@
 # movie_recommendation
 ## Contributers
-Pak Hei Lam
-Ethan Coulter
-Maxim Kasianiuk
-Kevin Man
-Joseph Power
+Pak Hei Lam,
+Ethan Coulter,
+Maxim Kasianiuk,
+Kevin Man,
+Joseph Power,
 Hayden Jeanson
 
 ## Introduction:
