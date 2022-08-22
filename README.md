@@ -1,4 +1,12 @@
 # movie_recommendation
+##Contributers
+Pak Hei Lam
+Ethan Coulter
+Maxim Kasianiuk
+Kevin Man
+Joseph Power
+Hayden Jeanson
+
 ## Introduction:
 The project code is based on item-based-collaborative filtering. This project's goal was to create a system which was able to recommend new movies to users based on previous movies that other users have positively interacted with. When users are looking for a new movie, we search movie’s they’ve previously rated, and similar movies other users have rated highly. 
 
